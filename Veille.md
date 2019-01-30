@@ -5,7 +5,7 @@
 ### Qu'est ce que Linux ?
 
 #### Terminologie:
-- Linux ou GNU/Linux n'est pas un système d'exploitation mais un 'NOYAU'.
+- Créé en 1991 par *Linus Torvalds*, Linux ou GNU/Linux n'est pas un système d'exploitation mais un 'NOYAU'.
 *GNU:* signifie GNU's Not UNIX "GNU n'est pas UNIX". Il reprend les concepts et le fonctionnement d'UNIX.
 Le nom *GNU Linux* existe depuis les années 2000.
 
