@@ -1,14 +1,14 @@
-#Veille: Linux.
+# Veille: Linux.
 
-##Tux = Mascotte de Linux.
+# Tux = Mascotte de Linux.
 
-###Qu'est ce que Linux ?
+### Qu'est ce que Linux ?
 
-####Terminologie:
+#### Terminologie:
 
 - Linux ou GNU/Linux n'est pas un système d'exploitation mais un 'NOYAU'.
 
-####Qu'est ce qu'un noyau ?
+#### Qu'est ce qu'un noyau ?
 
 Un noyau ou kernel, c'est tout simplement une des briques d'un système d'exploitation.
 
@@ -26,7 +26,7 @@ Il en existe plusieurs et on appelle ça des **Distributions**.
 
 exemple: Ubuntu, Debian, Kali, Mint, Fedora.
 
-####Qu'est ce qu'une distribution ?
+#### Qu'est ce qu'une distribution ?
 
 Une distribution est un ensemble de logiciels autour du noyau Linux.
 Elles ont chacunes leurs spécificités.
