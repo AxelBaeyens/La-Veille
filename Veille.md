@@ -6,6 +6,8 @@
 
 #### Terminologie:
 - Linux ou GNU/Linux n'est pas un système d'exploitation mais un 'NOYAU'.
+*GNU:* signifie GNU's Not UNIX "GNU n'est pas UNIX". Il reprend les concepts et le fonctionnement d'UNIX.
+Le nom *GNU Linux* existe depuis les années 2000.
 
 #### Qu'est ce qu'un noyau ?
 Un noyau ou kernel, c'est tout simplement une des briques d'un système d'exploitation.
