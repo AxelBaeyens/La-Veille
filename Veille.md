@@ -1,23 +1,17 @@
-				# Veille: Linux.
+
 
 ## Tux = Mascotte de Linux.
 
 ### Qu'est ce que Linux ?
 
 #### Terminologie:
-
 - Linux ou GNU/Linux n'est pas un système d'exploitation mais un 'NOYAU'.
 
 #### Qu'est ce qu'un noyau ?
-
 Un noyau ou kernel, c'est tout simplement une des briques d'un système d'exploitation.
-
 Il gère les matériels avec les différents composants, les processus ou les tâches qui s'exécutent sur le système d'exploitation.
-
 C'est Linux qui permet au logiciel de pouvoir communiquer avec les différents composants de votre ordinateur.
-
-exemple: si Skype peut utiliser la webcam ou le micro, c'est grâce à lui.
-
+**exemple:** si Skype peut utiliser la webcam ou le micro, c'est grâce à lui.
 **On dit qu'il fournit une interface entre les composants et les logiciels.**
 
 **Il n'existe pas qu'un seul système d'exploitation Linux.**
